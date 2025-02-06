@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
    Hi there 👋
-</p>
+</h1>
 
 # 💫 About Me:
 📌 FullStack developer (web or mobile) - JavaScript/TypeScript specialist;<br>👾 Currently deep diving into data structure and algorithms studies;<br>📖 Almost fininshing my bachelor's degree in Information Systems;<br>👨‍💻 Main Stack - JavaScript/TypeScript, Nest.js, Express.js, Next.js, React, React native
