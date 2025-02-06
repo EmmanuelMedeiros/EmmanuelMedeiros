@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div style="display: flex; flex-direction: column; justify-content: center; align-items: center">
 
 ## Hi there 👋
 
