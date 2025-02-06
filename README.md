@@ -2,7 +2,7 @@
    Hi there 👋
 </h1>
 
-📌 FullStack developer (web or mobile) - JavaScript/TypeScript specialist;<br>👾 Currently deep diving into data structure and algorithms studies;<br>📖 Almost fininshing my bachelor's degree in Information Systems;<br>👨‍💻 Main Stack - JavaScript/TypeScript, Nest.js, 
+📌 FullStack developer (web & mobile) - JavaScript/TypeScript specialist;<br>👾 Currently deep diving into data structure and algorithms studies;<br>📖 Almost fininshing my bachelor's degree in Information Systems;<br>👨‍💻 Main Stack - JavaScript/TypeScript, Nest.js, 
 Express.js, Next.js, React, React native
 
 🌐 Socials
