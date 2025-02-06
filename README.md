@@ -1,7 +1,6 @@
 <h1 align="center">
-   Hi there 
+   Hi there <img  src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 </h1>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" />
 
 📌 FullStack developer (web & mobile) - JavaScript/TypeScript specialist;<br>👾 Currently deep diving into data structure and algorithms studies;<br>📖 Almost fininshing my bachelor's degree in Information Systems;<br>👨‍💻 Main Stack - JavaScript/TypeScript, Nest.js, 
 Express.js, Next.js, React, React native
