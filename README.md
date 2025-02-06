@@ -14,10 +14,10 @@ Express.js, Next.js, React, React native
 
 
 <div align="center">
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=EmmanuelMedeiros&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=EmmanuelMedeiros&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelMedeiros&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-</div>
+   <h1>📊 GitHub Stats</h1>
+      <a href="#">
+       <img height="180px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelMedeiros&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
+     </a>
+   </div>
 ---
 [![](https://visitcount.itsvg.in/api?id=EmmanuelMedeiros&icon=5&color=0)](https://visitcount.itsvg.in)
