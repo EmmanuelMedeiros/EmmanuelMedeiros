@@ -14,7 +14,10 @@ Express.js, Next.js, React, React native
 
 
 <div align="center">
-   <h1>📊 GitHub Stats</h1>
+   <h2>📊 GitHub Stats</h2>
+      <a href="#">
+         <img height="180px" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emmanuelMedeiros&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false"/>
+      </a>
       <a href="#">
        <img height="180px" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuelMedeiros&theme=catppuccin_mocha&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
      </a>
