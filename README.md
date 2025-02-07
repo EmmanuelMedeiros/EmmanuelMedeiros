@@ -5,7 +5,7 @@
 📌 **FullStack developer (web & mobile)** - JavaScript/TypeScript specialist;<br>👾 **Currently deep diving into** data structure and algorithms studies;<br>📖 **Almost fininshing my bachelor's degree** in Information Systems
 
 🌐 Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/emmanueltlm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-tavares-0b6aa923b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emmanuelmedeiros05@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/emmanueltlm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/emmanuel-tavares-0b6aa923b/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:emmanuelmedeiros05@gmail.com) 
 
 <h2 align="center">💻 Tech Stack:</h2>
 
